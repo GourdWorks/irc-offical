@@ -1,5 +1,6 @@
 body{
     background-image: url("california-flag.png");
+    background-size: cover;
 }
 .title{
     text-align: center;
