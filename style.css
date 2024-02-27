@@ -1,10 +1,13 @@
 body{
-    background-image: url("california-flag.png");
+    background-image: url("california-flag-logan.png");
     background-size: cover;
 }
 .title{
     text-align: center;
 }
 .box{
-    background-color: lightblue
+    background-color: whitesmoke;
+}
+.text{
+    text-align: center;
 }
