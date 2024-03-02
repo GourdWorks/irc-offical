@@ -8,8 +8,3 @@ body{
 .box{
     background-color: whitesmoke;
 }
-.center{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-}
