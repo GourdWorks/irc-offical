@@ -8,3 +8,6 @@ body{
 .box{
     background-color: whitesmoke;
 }
+button{
+    border-style:hidden;
+}
