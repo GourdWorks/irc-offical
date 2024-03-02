@@ -11,3 +11,6 @@ body{
 .text{
     text-align: center;
 }
+.center{
+    align-items:center;
+}
