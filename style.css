@@ -12,5 +12,5 @@ body{
     text-align: center;
 }
 .center{
-    align-items:center;
+    align-self: center;
 }
