@@ -1,0 +1,16 @@
+[gd_scene load_steps=4 format=3 uid="uid://dbdnij1j53pfl"]
+
+[ext_resource type="Texture2D" uid="uid://ckt5yyiewb0cj" path="res://a3a3a3a3a.png" id="1_oaao6"]
+[ext_resource type="Texture2D" uid="uid://cwb0fqo0xsd7i" path="res://aa3a-removebg-preview.png" id="3_4m2p1"]
+[ext_resource type="Script" path="res://Aa3a-removebg-preview.gd" id="4_h64s1"]
+
+[node name="A3a3a3a3a" type="Sprite2D"]
+position = Vector2(960, 585)
+scale = Vector2(2.00837, 2.17472)
+texture = ExtResource("1_oaao6")
+
+[node name="Aa3a-removebg-preview" type="Sprite2D" parent="."]
+position = Vector2(-351.031, -18.2654)
+scale = Vector2(0.514559, 0.445515)
+texture = ExtResource("3_4m2p1")
+script = ExtResource("4_h64s1")
